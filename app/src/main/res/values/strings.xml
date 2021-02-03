@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <string name="dev_name">Leonardo Castañeda</string>
+    <string name="dev_nationality">Lima, Perú</string>
+    <string name="study">Educación:</string>
+    <string name="interest">Datos de interés:</string>
+    <string name="experience">Experiencia Profesional:</string>
+    <string name="dev_focus">Enfocado en el análisis y definición de las tecnologías claves necesarias para obtener el mejor rendimiento y escalabilidad de la solución propuesta. Apasionado por la tecnología, el emprendimiento y los nuevos retos.</string>
+
+    <string name="experience_1">Cofundador | FUTI</string>
+    <string name="experience_1_date">Julio 2019 - Actualidad</string>
+    <string name="experience_1_description">Startup que busca transformar procesos dentro de la industria deportiva. Lidero el desarrollo del producto y la implementación/administración de los servicios de AWS elegidos. Enlace del proyecto: www.futiapps.com</string>
+
+    <string name="experience_2">Líder Técnico | BELCORP</string>
+    <string name="experience_2_date">Febrero 2019 – Diciembre 2020</string>
+    <string name="experience_2_description"> Área de desarrollo de aplicaciones para dispositivos móviles, gestión de un equipo de trabajo, diseño e implementación. Funciones: Análisis de especificaciones funcionales, diseño de estructuras de datos, revisiones de código, codificación e integraciones, coordinaciones y sincronizaciones con otros equipos. Marco de trabajo: Scrum. Proyectos: Esika Conmigo y L’Bel Conmigo.</string>
+
+    <string name="experience_3">Senior Android Developer | BELCORP</string>
+    <string name="experience_3_date">Marzo 2018 – Febrero 2019</string>
+    <string name="experience_3_description">Desarrollo del SDK de captura de datos de comportamiento en las apps de Belcorp. Desarrollo de nuevas funcionalidades dentro de los activos de la empresa que incluían creaciones de interfaces, consumo de servicios, lógicas de negocio, notificaciones, marcaciones, entre otras. Marco de trabajo: Scrum. Proyectos: Esika Conmigo y L’Bel Conmigo</string>
+
+    <string name="interest_description">Kotlin, Java, Dart, GIT, Material Design, Coroutines, Data Binding, Live Data, Room, Permissions, Navigation, WorkManager, Koin, Clean Architecture, Architecture Components, Patrones de diseño (MVP/MVVM), Firebase, Springboot, Docker, AWS (EC2, S3, ECS, ECR, ELB)</string>
+
+
+
+</resources>
